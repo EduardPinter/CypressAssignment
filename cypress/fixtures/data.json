@@ -1,0 +1,16 @@
+{
+    "saucedemo": {
+        "standard_user":"standard_user",
+        "locked_out_user":"locked_out_user",
+        "problem_user":"problem_user",
+        "password":"secret_sauce",
+        "dataStrings":{
+            "errorMessageText": "Epic sadface: Sorry, this user has been locked out.",
+            "orderComplete": "Thank you for your order!",
+            "productOne": "Sauce Labs Backpack",
+            "productTwo": "Sauce Labs Bike Light"
+        }
+    }
+
+
+}
