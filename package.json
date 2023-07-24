@@ -1,0 +1,37 @@
+{
+  "name": "cypress-practise",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "cypress",
+    "automation"
+  ],
+  "author": "Eduard",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.17.2",
+    "cypress-wait-until": "^2.0.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "../node_modules",
+    "types": [
+      "cypress"
+    ]
+  },
+  "include": [
+    "**/*.*"
+  ],
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
